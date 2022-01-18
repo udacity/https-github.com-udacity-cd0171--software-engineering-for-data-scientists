@@ -1,0 +1,18 @@
+
+div#main-content {
+  font-family: "helvetica";
+}
+
+
+p.bold-paragraph {
+  font-weight:bold;
+}
+
+.green-text {
+  color:green;
+}
+
+#main-link {
+  color:blue;
+}
+
