@@ -24,4 +24,4 @@ traitlets==5.0.5
 urllib3==1.26.5
 virtualenv==20.4.07
 virtualenv-clone==0.5.4
-Werkzeug==2.0.1
+Werkzeug==2.2.3
